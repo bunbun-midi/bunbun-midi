@@ -1,5 +1,6 @@
-PORTFOLIO <br>
+=PORTFOLIO=<br>
 <a href="http://bunbun-midi.github.io">bunbun-midi.github.io</a><br>
+[Contact me](mailto:skeyboardsoftware@gmail.com) ::
 Rust, Android, iOS, Python flask, SQL, batch/bash, Full-stack HTML / JS developer.<br>
 -Developed a complete video editor w/ automation recording & crt shaders.<br> 
 -Implemented time and pitch shifting in RootlessJamesDSP fork w/ BPM targeting.<br> 
