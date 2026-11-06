@@ -14,9 +14,9 @@ Developed Skeyboard iOS & Android. The only actually customizable software keybo
 Developed binary analysis decompiler & memory editor. <br>
 Developed large file streaming text editor. <br>
 Developed DualDeck rust video editor (CRT shader video player w/ high rate live recording keyframe automation timeline & Audio Time/Pitchshifting DJ Mixing) <br>
-![0](https://github.com/bunbun-midi/bunbun-midi/blob/main/0.jpg)
+[![0](https://github.com/bunbun-midi/bunbun-midi/blob/main/0.jpg)](https://play.google.com/store/apps/details?id=net.skeyboard.filemgr)
 ![1](https://github.com/bunbun-midi/bunbun-midi/blob/main/1.png)
 ![2](https://github.com/bunbun-midi/bunbun-midi/blob/main/2.jpg)
 ![3](https://github.com/bunbun-midi/bunbun-midi/blob/main/3.jpg)
 ![5](https://github.com/bunbun-midi/bunbun-midi/blob/main/5.png)
-![6](https://github.com/bunbun-midi/bunbun-midi/blob/main/6.png)
+[![6](https://github.com/bunbun-midi/bunbun-midi/blob/main/6.png)](https://play.google.com/store/apps/details?id=net.skeyboard.midigitaru)
